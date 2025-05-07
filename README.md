@@ -53,7 +53,7 @@ This project designs a dimensional data mart for customer order analysis in a re
 - **CSV file validation** ensured the local file was saved and accessible.
 
 # Part 2
-# Project Overview: Data Lakehouse Implementation with Spark Streaming
+# Data Lakehouse Implementation with Spark Streaming
 
 This solution demonstrates a complete implementation of the **Databricks Lakehouse architecture** (Bronze → Silver → Gold) using Apache Spark. It processes **streaming fact data** alongside **batch reference data**, integrating them into a unified analytical pipeline that supports incremental data loading and real-time aggregation.
 
